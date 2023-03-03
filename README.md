@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **pawelhachula/pawelhachula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I am at the beginning of my path to being a manual software tester. I have been interested in software testing for several months. I devote my free time to intensive learning of theories, technologies, and related issues. So far, I've been learning on my own from Udemy courses, books, blogs, etc. I am currently gaining valuable experience in a training and internship project, after which I will be looking for employment as a junior manual software tester. In the future, I want to develop towards test automation.
