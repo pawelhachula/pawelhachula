@@ -1,10 +1,10 @@
-# Hi there 👋
+
 
 <!--
 **pawelhachula/pawelhachula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://user-images.githubusercontent.com/126195546/222779511-95fc2ce2-d7a1-4573-9b65-d53a8493f16e.png" height ="300" width="1480">
 Here are some ideas to get you started:
-
+# Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
