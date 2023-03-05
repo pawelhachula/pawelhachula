@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 <p align="justify"> I am at the beginning of my path to being a manual software tester. I have been interested in software testing for several months. I devote my free time to intensive learning of theories, technologies, and related issues. So far, I've been learning on my own from Udemy courses, books, blogs, etc. I am currently gaining valuable experience in a training and internship project, after which I want to wrok as a junior manual software tester. In the future, I want to develop towards test automation. </p>
 
 
-- 📫 **I’m looking for my first job as junior manual software tester**
+📫 **I’m looking for my first job as junior manual software tester**
+
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawelhachula/)
 
 
 # My portfolio
