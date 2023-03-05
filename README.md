@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I am at the beginning of my path to being a manual software tester. I have been interested in software testing for several months. I devote my free time to intensive learning of theories, technologies, and related issues. So far, I've been learning on my own from Udemy courses, books, blogs, etc. I am currently gaining valuable experience in a training and internship project, after which I will be looking for employment as a junior manual software tester. In the future, I want to develop towards test automation.
 
 
-- 📫 I’m looking for my first job as manual software tester
+- 📫 **I’m looking for my first job as junior manual software tester**
 
 
 # My portfolio
@@ -34,44 +34,25 @@ I am at the beginning of my path to being a manual software tester. I have been 
 ## Technologies and tools in basic knowledge
 * SQL 
 * Databases (PostgreSQL, MySQL)
-* REST Api (Postman)
+* REST API (Postman)
 * JIRA
 * GIT
 * DevTools
-* HTML,CSS
+* HTML, CSS
+
 ## Courses and certificates
 - [x] **Tester manualny – kurs kompleksowy - Quality Island**
-
-<img src="https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg" height ="200" width="300">
-
-
 - [x] **Praktyczny kurs testowania oprogramowania - Udemy**
-
-![Certyfikat testowanie oprogramowania Udemy](https://user-images.githubusercontent.com/126195546/221151703-0ab3bc86-5222-4635-b7bd-351dd52b9f42.jpg)
-
 - [x] **Bazy danych, język SQL dla testerów - Quality Island**
-
-![Certyfikat Bazy danych, język SQL dla testerów - Quality Island](https://user-images.githubusercontent.com/126195546/221149719-d114054f-b7cd-4e9f-a77f-4e70e88cc160.jpg)
-
 - [x] **Kurs SQL od podstaw | MySQL - Udemy**
-
-![Certyfikat SQL Udemy](https://user-images.githubusercontent.com/126195546/221151386-f5f28263-651d-4717-9e0d-8305979ae5cb.jpg)
-
 - [x] **Wprowadzenie do testowania API – Postman - Quality Island**
-
-![Certyfikat Wprowadzenie do testowania API-Quality Island](https://user-images.githubusercontent.com/126195546/221151656-ffbf40ca-1940-467b-84a0-f484d182a610.jpg)
-
 - [x] **API Beginner Learning Path - Postman**
-
-![Certyfikat Postman Academy](https://user-images.githubusercontent.com/126195546/221151433-9b952330-d422-436e-abec-49b47893d345.jpg)
-
 - [x] **Postman - testowanie REST API - Udemy**
-
-![Certyfikat REST API Postman Udemy](https://user-images.githubusercontent.com/126195546/221151531-3b9b6651-7119-4801-b3fe-b90d480f78f8.jpg)
-
 - [x] **GIT dla początkujących - Udemy**
 
-![Certyfikat GIT dla początkujących - Udemy](https://user-images.githubusercontent.com/126195546/221954653-d1763256-41f0-43df-9645-8289f8d104e5.jpg)
+
+<img src="https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg" height ="200" width="300"> <img src="https://user-images.githubusercontent.com/126195546/221151703-0ab3bc86-5222-4635-b7bd-351dd52b9f42.jpg" height ="200" width="300" hspace="20"> <img src="https://user-images.githubusercontent.com/126195546/221149719-d114054f-b7cd-4e9f-a77f-4e70e88cc160.jpg" height ="200" width="300"> <img src="https://user-images.githubusercontent.com/126195546/221151386-f5f28263-651d-4717-9e0d-8305979ae5cb.jpg" height ="200" width="300"> <img src="https://user-images.githubusercontent.com/126195546/221151656-ffbf40ca-1940-467b-84a0-f484d182a610.jpg" height ="200" width="300" hspace="20"> <img src="https://user-images.githubusercontent.com/126195546/221151433-9b952330-d422-436e-abec-49b47893d345.jpg" height ="200" width="300"> <img src="https://user-images.githubusercontent.com/126195546/221151531-3b9b6651-7119-4801-b3fe-b90d480f78f8.jpg" height ="200" width="300"> <img src="https://user-images.githubusercontent.com/126195546/221954653-d1763256-41f0-43df-9645-8289f8d104e5.jpg" height ="200" width="300" hspace="20"> 
+
 
 
 ## Technical books read
