@@ -6,7 +6,7 @@
 ![name1](https://user-images.githubusercontent.com/126195546/222787121-ea5ecca3-d970-4d96-8267-f1cdf0ab719a.png)
 
 Here are some ideas to get you started:
-# Hi there 👋
+
 - 🔭 I’m currently working on ...
 
 
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## About me
 -->
-
+# Hi there 👋
 I am at the beginning of my path to being a manual software tester. I have been interested in software testing for several months. I devote my free time to intensive learning of theories, technologies, and related issues. So far, I've been learning on my own from Udemy courses, books, blogs, etc. I am currently gaining valuable experience in a training and internship project, after which I will be looking for employment as a junior manual software tester. In the future, I want to develop towards test automation.
 
-- 🌱 I’m currently learning software testing
-- 👯 I’m looking for my first job as manual software tester
-- 📫 Please, check my [PORTFOLIO](https://github.com/pawelhachula/PORTFOLIO) repository for check more informations about my knowledge, courses and certificates
+
+- 📫 I’m looking for my first job as manual software tester
+
 
 # My portfolio
 
@@ -42,7 +42,8 @@ I am at the beginning of my path to being a manual software tester. I have been 
 ## Courses and certificates
 - [x] **Tester manualny – kurs kompleksowy - Quality Island**
 
-![Certyfikat Tester manualny – kurs kompleksowy - Quality Island](https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg)
+<img src="https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg" height ="200" width="300">
+
 
 - [x] **Praktyczny kurs testowania oprogramowania - Udemy**
 
