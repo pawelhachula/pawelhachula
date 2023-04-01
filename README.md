@@ -1,10 +1,10 @@
-<img src="https://user-images.githubusercontent.com/126195546/222986847-6f64813a-3480-42d7-9c1b-8e46209979a5.png" height ="150" width="1480">
+
 
 
 <!--
 **pawelhachula/pawelhachula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![name1](https://user-images.githubusercontent.com/126195546/222787121-ea5ecca3-d970-4d96-8267-f1cdf0ab719a.png)
-
+<img src="https://user-images.githubusercontent.com/126195546/222986847-6f64813a-3480-42d7-9c1b-8e46209979a5.png" height ="150" width="1480">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 -->
 # Hi there 👋
-<p align="justify"> I am at the beginning of my path to being a manual software tester. I have been interested in software testing for several months. I devote my free time to intensive learning of theories, technologies, and related issues. So far, I've been learning on my own from Udemy courses, books, blogs, etc. I am currently gaining valuable experience in a training and internship project, after which I want to wrok as a junior manual software tester. In the future, I want to develop towards test automation. </p>
+<p align="justify"> I am at the beginning of my path to being a manual software tester. I have been interested in software testing for several months. I devote my free time to intensive learning of theories, technologies, and related issues. So far, I've been learning on my own from Udemy courses, books, blogs, etc. Currently, I have completed an internship and have 3 months of experience as a junior manual tester. In the future, I want to develop towards test automation. </p>
 
 
 
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 * HTML, CSS
 
 ## Courses and certificates
+- [x] **Training and internship project Junior Software Tester - Quality Island**
 - [x] **Tester manualny – kurs kompleksowy - Quality Island**
 - [x] **Praktyczny kurs testowania oprogramowania - Udemy**
 - [x] **Bazy danych, język SQL dla testerów - Quality Island**
@@ -56,14 +57,15 @@ Here are some ideas to get you started:
 - [x] **GIT dla początkujących - Udemy**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151703-0ab3bc86-5222-4635-b7bd-351dd52b9f42.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221149719-d114054f-b7cd-4e9f-a77f-4e70e88cc160.jpg" height ="180" width="250"> 
+<img src="https://user-images.githubusercontent.com/126195546/229294785-9649bf48-7ad5-439b-8d6f-c079904543ac.png" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151703-0ab3bc86-5222-4635-b7bd-351dd52b9f42.jpg" height ="180" width="250"> 
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/126195546/221151386-f5f28263-651d-4717-9e0d-8305979ae5cb.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151656-ffbf40ca-1940-467b-84a0-f484d182a610.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151433-9b952330-d422-436e-abec-49b47893d345.jpg" height ="180" width="250"> 
+<img src="https://user-images.githubusercontent.com/126195546/221149719-d114054f-b7cd-4e9f-a77f-4e70e88cc160.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151386-f5f28263-651d-4717-9e0d-8305979ae5cb.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151656-ffbf40ca-1940-467b-84a0-f484d182a610.jpg" height ="180" width="250"> 
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/126195546/221151531-3b9b6651-7119-4801-b3fe-b90d480f78f8.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221954653-d1763256-41f0-43df-9645-8289f8d104e5.jpg" height ="180" width="250"> 
+<img src="https://user-images.githubusercontent.com/126195546/221151433-9b952330-d422-436e-abec-49b47893d345.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151531-3b9b6651-7119-4801-b3fe-b90d480f78f8.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221954653-d1763256-41f0-43df-9645-8289f8d104e5.jpg" height ="180" width="250"> 
 </p>
+
 
 
 ## Technical books read
