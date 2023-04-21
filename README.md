@@ -47,26 +47,24 @@ Here are some ideas to get you started:
 
 ## Courses and certificates
 - [x] **Training and internship project Junior Software Tester - Quality Island**
-- [x] **Tester manualny – kurs kompleksowy - Quality Island**
+- [x] **Software tester - comprehensive training - Quality Island**
 - [x] **Praktyczny kurs testowania oprogramowania - Udemy**
-- [x] **Bazy danych, język SQL dla testerów - Quality Island**
+- [x] **Certyfikat - Databases, SQL for testers and analysts - Quality Island**
 - [x] **Kurs SQL od podstaw | MySQL - Udemy**
-- [x] **Wprowadzenie do testowania API – Postman - Quality Island**
+- [x] **Introduction to API testing in Postman - Quality Island**
 - [x] **API Beginner Learning Path - Postman**
 - [x] **Postman - testowanie REST API - Udemy**
 - [x] **GIT dla początkujących - Udemy**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/126195546/229294785-9649bf48-7ad5-439b-8d6f-c079904543ac.png" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151583-d0dbf213-435e-4040-82dd-2e2a3e4aa2ba.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151703-0ab3bc86-5222-4635-b7bd-351dd52b9f42.jpg" height ="180" width="250"> 
+<img src="https://user-images.githubusercontent.com/126195546/229294785-9649bf48-7ad5-439b-8d6f-c079904543ac.png" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/233658755-9aacb916-3f17-4f8d-bd12-b126180d6d5d.png" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151703-0ab3bc86-5222-4635-b7bd-351dd52b9f42.jpg" height ="180" width="250"> 
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/126195546/221149719-d114054f-b7cd-4e9f-a77f-4e70e88cc160.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151386-f5f28263-651d-4717-9e0d-8305979ae5cb.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151656-ffbf40ca-1940-467b-84a0-f484d182a610.jpg" height ="180" width="250"> 
+<img src="https://user-images.githubusercontent.com/126195546/233658960-b0bad847-c6db-47c8-9244-f255c8e9643d.png" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151386-f5f28263-651d-4717-9e0d-8305979ae5cb.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/233658304-0e30668c-6a41-499a-ab12-0abccf4e8c00.png" height ="180" width="250"> 
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/126195546/221151433-9b952330-d422-436e-abec-49b47893d345.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221151531-3b9b6651-7119-4801-b3fe-b90d480f78f8.jpg" height ="180" width="250"> <img src="https://user-images.githubusercontent.com/126195546/221954653-d1763256-41f0-43df-9645-8289f8d104e5.jpg" height ="180" width="250"> 
 </p>
-
-
 
 ## Technical books read
 * ["Zawód tester" Radosław Smilgin](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
